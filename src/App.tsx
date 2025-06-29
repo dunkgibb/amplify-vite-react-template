@@ -25,7 +25,7 @@ function App() {
 
   return (
     <main>
-      <h1>My surf spots</h1>
+      <h1>My super sweet surf spots</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
